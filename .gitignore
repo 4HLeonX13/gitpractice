@@ -1,0 +1,11 @@
+.env
+node_modules/
+
+# npm diagnostic logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
